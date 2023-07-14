@@ -98,4 +98,6 @@ namespace Fibonacci
 * Russian: Native speaker
 * English: B1 (Intermediate)
 
+![English Level Picture](https://i.imgur.com/Ab9raBX.png)
+
 ***
