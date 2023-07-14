@@ -85,3 +85,17 @@ namespace Fibonacci
 * As part of the course project to the discipline "Programming" was developed program for ticket sales accounting
 
 ***
+
+## COURSES
+
+1. MagNet C# Training
+2. EPAM Training
+
+***
+
+## LANGUAGES
+
+* Russian: Native speaker
+* English: B1 (Intermediate)
+
+***
